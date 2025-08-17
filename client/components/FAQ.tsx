@@ -15,7 +15,7 @@ export default function FAQ() {
     },
     {
       question: "Which regions are available?",
-      answer: "EU and US at launch; more regions planned."
+      answer: "EU, US, and UK at launch; more regions planned."
     },
     {
       question: "What counts as an AI action?",

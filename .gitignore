@@ -99,7 +99,6 @@ temp/
 
 # Bun
 .bun
-bun.lockb
 
 # Cloudflare
 .dev.vars
